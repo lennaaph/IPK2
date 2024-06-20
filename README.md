@@ -1,4 +1,6 @@
-# Projekt 2: IPK24-server
+# Počitačové komunikace a sítě - 2.projekt
+
+## IPK24-server
 
 Tento dokument popisuje návrh a implementaci serverové aplikace schopné komunikovat se vzdálenými klienty pomocí protokolu IPK24-CHAT.
 
